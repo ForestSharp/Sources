@@ -1,0 +1,8 @@
+C:\Development\pascalTriangle\obj\Debug\pascalTriangle.csproj.AssemblyReference.cache
+C:\Development\pascalTriangle\obj\Debug\pascalTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Development\pascalTriangle\obj\Debug\pascalTriangle.csproj.CoreCompileInputs.cache
+C:\Development\pascalTriangle\bin\Debug\pascalTriangle.exe.config
+C:\Development\pascalTriangle\bin\Debug\pascalTriangle.exe
+C:\Development\pascalTriangle\bin\Debug\pascalTriangle.pdb
+C:\Development\pascalTriangle\obj\Debug\pascalTriangle.exe
+C:\Development\pascalTriangle\obj\Debug\pascalTriangle.pdb

@@ -1,0 +1,8 @@
+C:\Development\Georgiy\bin\Debug\Georgiy.exe.config
+C:\Development\Georgiy\bin\Debug\Georgiy.exe
+C:\Development\Georgiy\bin\Debug\Georgiy.pdb
+C:\Development\Georgiy\obj\Debug\Georgiy.csproj.AssemblyReference.cache
+C:\Development\Georgiy\obj\Debug\Georgiy.csproj.SuggestedBindingRedirects.cache
+C:\Development\Georgiy\obj\Debug\Georgiy.csproj.CoreCompileInputs.cache
+C:\Development\Georgiy\obj\Debug\Georgiy.exe
+C:\Development\Georgiy\obj\Debug\Georgiy.pdb
