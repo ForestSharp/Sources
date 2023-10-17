@@ -1,0 +1,96 @@
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.exe
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.dll.config
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.deps.json
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.runtimeconfig.json
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.pdb
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.AssemblyReference.cache
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes_3L.Form1.resources
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes_3L.Properties.Resources.resources
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes_3L.СreateStringTablesDB.resources
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.GenerateResource.cache
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.AssemblyInfoInputs.cache
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.AssemblyInfo.cs
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.CoreCompileInputs.cache
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.CopyComplete
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.dll
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\refint\Fitnes 3L.dll
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.pdb
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.genruntimeconfig.cache
+C:\Development\Fitnes 3L\obj\Release\net6.0-windows\ref\Fitnes 3L.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Development\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.exe
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.dll.config
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.deps.json
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Fitnes 3L.pdb
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes_3L.Form1.resources
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes_3L.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes_3L.СreateStringTablesDB.resources
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.csproj.CopyComplete
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\refint\Fitnes 3L.dll
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.pdb
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\Fitnes 3L.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\Исходники\Fitnes 3L\obj\Release\net6.0-windows\ref\Fitnes 3L.dll
