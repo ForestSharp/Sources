@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aTn0r7wgbqpv2CLhd+S8ri4AX+bli4k8V6qRvet4YmbUOxAXDxQ8XgaZYJ013t+oUN5pIf8lCJw9Y9VnTS7D/w==",
+  "dgSpecHash": "9djUIU0LzIDqhzHA2T97qHh8dk3sG1b2Pf4CMBs82BcFu88V/AKDp+MslSOBikU7uraPP+QVDDruMc+8wojoMw==",
   "success": true,
-  "projectFilePath": "C:\\Development\\ForestSharp\\Sources\\App Avrora\\App Avrora.csproj",
+  "projectFilePath": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Sources\\App Avrora\\App Avrora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dmitriy\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Dmitriy\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

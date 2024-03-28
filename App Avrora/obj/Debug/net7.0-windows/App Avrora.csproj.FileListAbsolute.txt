@@ -14,3 +14,64 @@ C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\refint\Ap
 C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.pdb
 C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.genruntimeconfig.cache
 C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\ref\App Avrora.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App_Avrora.AuthorizationForm.resources
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.AssemblyInfo.cs
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\refint\App Avrora.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.pdb
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.exe
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.deps.json
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.runtimeconfig.json
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.pdb
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.csproj.CopyComplete
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.genruntimeconfig.cache
+C:\Users\Dmitriy\Documents\GitHub\Sources\App Avrora\obj\Debug\net7.0-windows\ref\App Avrora.dll
