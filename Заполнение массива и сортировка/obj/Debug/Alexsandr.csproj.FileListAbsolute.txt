@@ -1,8 +1,0 @@
-C:\Development\Alexsandr\bin\Debug\Alexsandr.exe.config
-C:\Development\Alexsandr\bin\Debug\Alexsandr.exe
-C:\Development\Alexsandr\bin\Debug\Alexsandr.pdb
-C:\Development\Alexsandr\obj\Debug\Alexsandr.csproj.AssemblyReference.cache
-C:\Development\Alexsandr\obj\Debug\Alexsandr.csproj.SuggestedBindingRedirects.cache
-C:\Development\Alexsandr\obj\Debug\Alexsandr.csproj.CoreCompileInputs.cache
-C:\Development\Alexsandr\obj\Debug\Alexsandr.exe
-C:\Development\Alexsandr\obj\Debug\Alexsandr.pdb
