@@ -1,8 +1,0 @@
-C:\Development\Anastasia\bin\Debug\Anastasia.exe.config
-C:\Development\Anastasia\bin\Debug\Anastasia.exe
-C:\Development\Anastasia\bin\Debug\Anastasia.pdb
-C:\Development\Anastasia\obj\Debug\Anastasia.csproj.AssemblyReference.cache
-C:\Development\Anastasia\obj\Debug\Anastasia.csproj.SuggestedBindingRedirects.cache
-C:\Development\Anastasia\obj\Debug\Anastasia.csproj.CoreCompileInputs.cache
-C:\Development\Anastasia\obj\Debug\Anastasia.exe
-C:\Development\Anastasia\obj\Debug\Anastasia.pdb

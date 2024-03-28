@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Fitnes_3L.Properties" GeneratedClassName="Settings1">
-  <Profiles />
-  <Settings>
-    <Setting Name="connectionString" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">Server=.\SQLEXPRES;Database=Фитнесс центр Триэль;Trusted_Connection=True;Trust Server Certificate=true;</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
