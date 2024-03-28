@@ -10,7 +10,7 @@ namespace App_Avrora.model
     internal class ServerSQL
     {
         private string serverSQL = "localhost";
-        
+        public string Test = "Test";
         private SqlConnection sqlConnection;
         private string nameDataBase;
 
