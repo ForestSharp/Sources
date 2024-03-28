@@ -1,0 +1,16 @@
+C:\Development\ForestSharp\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.exe
+C:\Development\ForestSharp\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.deps.json
+C:\Development\ForestSharp\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.runtimeconfig.json
+C:\Development\ForestSharp\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.dll
+C:\Development\ForestSharp\Sources\App Avrora\bin\Debug\net7.0-windows\App Avrora.pdb
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App_Avrora.Form1.resources
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.csproj.GenerateResource.cache
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.AssemblyInfoInputs.cache
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.AssemblyInfo.cs
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.csproj.CoreCompileInputs.cache
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.dll
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\refint\App Avrora.dll
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.pdb
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\App Avrora.genruntimeconfig.cache
+C:\Development\ForestSharp\Sources\App Avrora\obj\Debug\net7.0-windows\ref\App Avrora.dll
